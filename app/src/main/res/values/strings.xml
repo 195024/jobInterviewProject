@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Test</string>
+
+    <string name="activity_main_toast_noInternetConnection">No internet connection!</string>
+
+    <string name="activity_main_textview_inLast">In last</string>
+    <string name="activity_main_textview_days">days</string>
+    <string name="activity_main_button_search">search</string>
+
+    <string name="activity_display_details_textview_id">ID: %1s</string>
+    <string name="activity_display_details_textview_title">Title: %1s</string>
+    <string name="activity_display_details_textview_originalTitle">Original title: %1s</string>
+    <string name="activity_display_details_textview_originalLanguage">Original language: %1s</string>
+
 </resources>
